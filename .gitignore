@@ -1,0 +1,19 @@
+# Ignore generated directories
+venv
+.settings
+
+# Ignore generated files
+*.pyc
+*.pyo
+*.orig
+*~
+
+# Ignore other specific files
+.coverage
+.project
+.pydevproject
+.pydevproject.bak
+.vagrant
+
+# PyCharm Folders
+.idea
